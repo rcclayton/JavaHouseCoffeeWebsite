@@ -1,0 +1,5 @@
+{
+  "name": "Java House - Local Coffee & Community",
+  "description": "Premium local coffee shop in the heart of the city. Specialty espresso, fresh pastries, and a warm atmosphere for work and connection.",
+  "requestFramePermissions": ["geolocation"]
+}
