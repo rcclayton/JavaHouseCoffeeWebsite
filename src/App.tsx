@@ -125,8 +125,8 @@ const Hero = ({ onMenuClick }: { onMenuClick: () => void }) => (
     {/* Background Image with Overlay */}
     <div className="absolute inset-0 z-0">
       <img 
-        src="https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&q=80&w=2000" 
-        alt="Cozy coffee shop interior" 
+        src="https://images.unsplash.com/photo-1442512595331-e89e73853f31?auto=format&fit=crop&q=80&w=2000" 
+        alt="Freshly brewed specialty coffee" 
         className="w-full h-full object-cover"
         referrerPolicy="no-referrer"
       />
